@@ -1,0 +1,72 @@
+{
+    "something": "哎呀！出事了",
+    "authAPI": {
+      "success": "成功",
+      "error": "错误",
+      "codeSuccess":"二百",
+      "codeError":"四百〇四",
+      "invalid_token": "无效的授权令牌",
+      "auth_success": "授权成功",
+      "forbidden": "禁止的",
+      "invalid_username": "用户名不能为空",
+      "invalid_password": "密码不能为空",
+      "error_auth": "身份验证时发生了一些错误",
+      "auth_failed": "授权失败",
+      "email_no_exists": "此帐户不存在！请再试一遍。",
+      "email_exists": "电子邮件已经存在",
+      "email_sent": "电子邮件发送成功",
+      "display_exists": "用户名已存在",
+      "cat_exists": "名称已经存在",
+      "alreadyLiked": "已经喜欢了这个视频！",
+      "screenName_exists": "屏幕名称已存在",
+      "screenName_no_exists": "屏幕名称不存在",
+      "email_not_sent": "发生了一些错误！无法发送电子邮件.",
+      "no_data": "没有数据"
+    },
+    "userAPI": {
+      "User_sucess": "用户创建成功",
+      "User_Update": "用户已成功更新",
+      "no_data": "没有数据",
+      "notificationSend":"通知发送成功",
+      "validate_end_date":"结束日期应大于开始日期",
+      "Password_reset": "密码重置链接发送成功"
+    },
+    "commonAPI": {
+      "Sucess": "成功创建",
+      "Update": "成功更新",
+      "deleted":"成功删除",
+      "No_data": "没有数据"    
+    },
+    "messageAPI": {
+      "addedCat": "类别已成功添加",
+      "updatedSettings":"设置已成功更新",
+      "commentSuccess":"评论成功",
+      "errorMsg":"请稍后再试",
+      "likeSuccess":"喜欢成功",
+      "unlikeSuccess":"成功地不一样",
+      "videoSuccess":"视频上传成功",
+      "followSuccess":"成功跟随",
+      "removedPic":"个人资料照片已成功删除",
+      "updatedProfilePic":"个人资料图片已成功更新",
+      "notificationSettingsadded":"通知设置已添加",
+      "fcmUpdated":"设备令牌已成功更新",
+      "sendEmail":"电子邮件发送成功",
+      "passwordReset":"密码重置成功",
+      "locationUpdated":"位置已成功更新",
+      "updatedProfile":"个人资料已成功更新",
+      "No_data": "没有数据",
+      "updatedLanguage":"语言已成功更新",
+      "updateCat":"分类成功更新",
+      "videoDeletedSuccess":"视频已成功删除",
+      "videoDeletedFailed": "无法删除视频，发生错误！！",
+      "changeVideoPrivacy": "视频隐私权已更新",
+      "changeVideoPrivacyFailed":"无法更改视频隐私"
+    },
+    "noti": {
+      "likedVideo":" 喜欢你的影片.",
+      "followYou":" 开始关注您.",
+      "likedComment": " 喜欢你的评论",
+      "addComment":" 对您的视频发表了评论"
+    }
+  }
+  

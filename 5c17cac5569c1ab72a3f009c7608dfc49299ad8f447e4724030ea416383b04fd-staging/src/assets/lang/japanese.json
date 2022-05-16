@@ -1,0 +1,72 @@
+{
+    "something": "おっと！何かが間違っていた",
+    "authAPI": {
+      "success": "成功",
+      "error": "エラー",
+      "codeSuccess":"二百",
+      "codeError":"四百四",
+      "invalid_token": "無効な認証トークン",
+      "auth_success": "承認に成功しました",
+      "forbidden": "禁止",
+      "invalid_username": "ユーザー名を空にすることはできません！",
+      "invalid_password": "パスワードを空にすることはできません！",
+      "error_auth": "認証中にエラーが発生しました",
+      "auth_failed": "承認に失敗しました",
+      "email_no_exists": "このアカウントは存在しません！もう一度やり直してください。",
+      "email_exists": "メールはすでに存在します",
+      "email_sent": "電子メールを正常に送信",
+      "display_exists": "ユーザー名はすでに存在します",
+      "cat_exists": "名前はすでに存在します",
+      "alreadyLiked": "すでにこのビデオが好きでした！",
+      "screenName_exists": "画面名はすでに存在します",
+      "screenName_no_exists": "画面名が存在しません",
+      "email_not_sent": "エラーが発生しました！メールを送信できませんでした。",
+      "no_data": "データなし"
+    },
+    "userAPI": {
+      "User_sucess": "ユーザーが正常に作成されました",
+      "User_Update": "ユーザーが正常に更新されました",
+      "no_data": "データなし",
+      "notificationSend":"通知は正常に送信されます",
+      "validate_end_date":"終了日は開始日よりも大きくする必要があります",
+      "Password_reset": "パスワードリセットリンクが正常に送信されました"
+    },
+    "commonAPI": {
+      "Sucess": "正常に作成されました",
+      "Update": "正常に更新されました",
+      "deleted":"正常に削除されました",
+      "No_data": "データなし"    
+    },
+    "messageAPI": {
+      "addedCat": "カテゴリが正常に追加されました",
+      "updatedSettings":"設定が正常に更新されました",
+      "commentSuccess":"正常にコメントされました",
+      "errorMsg":"しばらくしてからお試しください!!",
+      "likeSuccess":"正常に高く評価されました",
+      "unlikeSuccess":"うまくいかなかった",
+      "videoSuccess":"動画が正常にアップロードされました",
+      "followSuccess":"正常にフォロー",
+      "removedPic":"プロフィール写真が正常に削除されました",
+      "updatedProfilePic":"プロフィール写真が正常に更新されました",
+      "notificationSettingsadded":"通知設定が追加されました",
+      "fcmUpdated":"デバイストークンが正常に更新されました",
+      "sendEmail":"メール送信に成功",
+      "passwordReset":"パスワードが正常にリセットされました",
+      "locationUpdated":"場所が正常に更新されました",
+      "updatedProfile":"プロファイルが正常に更新されました",
+      "No_data": "データなし",
+      "updatedLanguage":"言語が正常に更新されました" ,
+      "updateCat":"カテゴリが正常に更新されました" ,
+      "videoDeletedSuccess":"動画が正常に削除されました",
+      "videoDeletedFailed": "ビデオエラーが発生しました削除できません!!",
+      "changeVideoPrivacy": "ビデオプライバシーが更新されました",
+      "changeVideoPrivacyFailed":"ビデオのプライバシーを変更することはできません"
+    },
+    "noti": {
+      "likedVideo":" あなたのビデオが気に入りました.",
+      "followYou":" あなたをフォロー始めました.",
+      "likedComment": " あなたのコメントが気に入りました",
+      "addComment":" あなたのビデオにコメントしました。"
+    }
+  }
+  

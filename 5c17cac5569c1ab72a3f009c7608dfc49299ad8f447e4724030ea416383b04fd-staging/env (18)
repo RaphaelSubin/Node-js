@@ -1,0 +1,44 @@
+#-------------------------------Config--------------------------------#
+MODE                        = dev
+PORT                        = 80
+JWT_SECRET                  = Golden_123
+AUTHTOKEN                   = MY_KEY
+NODE_ENV                    = development
+lang                        = en
+SITE_TITLE                  = CloudTrav
+
+#----------------------- API KEYS ----------------------#
+
+GOOGLE_API_KEY              = AIzaSyB6dkec-NxV5QVBVw0rMKeu0PqrT7tEiic
+FIREBASE_SERVER_KEY         = AAAAq7esSqA:APA91bGFFPGJmv7jWmsABnFTw6VevRjYn0NdfJn2YiVOstwCXCQwl3iW1ju114SPJPB9QH9nL-QboHqPFRmJCeivhUcXNIJqFNUqp2vMXhoaYdKbvRHdEUx3Wm8IMC3U8JZXxxz7BNyQ
+STRIPE_KEY                  = sk_test_51IgjMySHEzquD4HmLa6tmNAzA6fGjEWMMfTRK7d7A4TDv1lA63gFgf9Lx4UYBlXEgLws0IABYDoFywzNIdooG1Zq00gy9ZQODW
+
+#-------------------------------Database-------------------------------#
+
+# => DEVELOPMENT DATABASE
+DB_NAME_DEV                 = cloud_trav
+DB_USER_DEV                 = postgres
+DB_PASS_DEV                 = Golden_123
+DB_PORT_DEV                 = 32805
+DB_HOST_DEV                 = 35.193.22.107
+
+# => PRODUCTION DATABASE
+DB_NAME                     = cloud_trav
+DB_USER                     = postgres
+DB_PASS                     = Golden_123
+DB_PORT                     = 32805
+DB_HOST                     = 35.193.22.107
+
+# => TESTING DATABASE
+DB_NAME_TEST                = cloud_trav
+DB_USER_TEST                = postgres
+DB_PASS_TEST                = Golden_123
+DB_PORT_TEST                = 32805
+DB_HOST_TEST                = 35.193.22.107
+
+#------------------------------Constants-------------------------------#
+STATUS_ERROR           = 500
+STATUS_SUCCESS         = 200
+STATUS_NOTFOUND        = 404
+STATUS_FORBIDDEN       = 403
+STATUS_BAD_REQUEST     = 400

@@ -1,0 +1,26 @@
+{
+  "name": "firebase-fileupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "type": "module",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/storage": "^0.9.2",
+    "@google-cloud/storage": "^5.18.1",
+    "apollo-server": "^3.6.2",
+    "apollo-server-express": "^3.6.2",
+    "express": "^4.17.2",
+    "firebase-admin": "^10.0.2",
+    "fs": "^0.0.1-security",
+    "graphql": "^16.3.0",
+    "graphql-upload": "^13.0.0",
+    "uuid": "^8.3.2",
+    "uuid-v4": "^0.1.0"
+  }
+}

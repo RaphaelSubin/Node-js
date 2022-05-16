@@ -1,0 +1,36 @@
+{
+  "name": "authentication-with-node-and-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "migrate": " sequelize db:migrate",
+    "dev": "nodemon --exec babel-node src/app.js    ",
+    "start": "node src/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.16.12",
+    "@babel/preset-react": "^7.16.7",
+    "apollo-server": "^3.6.2",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "bcrpyt": "^2.0.0",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^14.3.2",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.1",
+    "sequelize": "^6.14.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^7.1.5"
+  }
+}
